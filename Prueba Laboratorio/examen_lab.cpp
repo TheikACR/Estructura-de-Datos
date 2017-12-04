@@ -1,11 +1,11 @@
-/** David Infante Casas - 75165296P - Prueba de laboratorio Estructuras de Datos*/
+/** David Infante Casas - Prueba de laboratorio Estructuras de Datos*/
 
 /**
    Dados dos conjuntos de enteros:
 
-1.- Crea el conjunto resultante de la uniÛn de ambos conjuntos.
-2.- Crear el conjunto resultante de la diferencia simÈtrica de los dos conjuntos. (Aquellos elementos que est·n en A o en B)
-3.- Construir un nuevo conjunto resultante de los 5 elementos m·s grandes de ambos conjuntos.
+1.- Crea el conjunto resultante de la uni√≥n de ambos conjuntos.
+2.- Crear el conjunto resultante de la diferencia sim√©trica de los dos conjuntos. (Aquellos elementos que est√°n en A o en B)
+3.- Construir un nuevo conjunto resultante de los 5 elementos m√°s grandes de ambos conjuntos.
 Ejemplo:
 
 A = {1, 2, 3, 4, 5}               B = {2, 4, 7, 9}
