@@ -10,6 +10,6 @@ Dados dos conjuntos de enteros:
 3.- Construir un nuevo conjunto resultante de los 5 elementos más grandes de ambos conjuntos.
 Ejemplo:
 A = {1, 2, 3, 4, 5}               B = {2, 4, 7, 9}
-       C = {1, 2, 3, 4, 5, 7, 9}
-       C={1, 3, 5, 7, 9}
-       C={3, 4, 5, 7, 9}
+       C1={1, 2, 3, 4, 5, 7, 9}
+       C2={1, 3, 5, 7, 9}
+       C3={3, 4, 5, 7, 9}
