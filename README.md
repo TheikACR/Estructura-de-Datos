@@ -1,6 +1,6 @@
 # Estructura de Datos
 
-### La carpeta prueba de laboratorio contiene la prueba de laboratorio de la asignatura ED realizada durante el curso 2016-2017
+### Prueba de laboratorio (examen) de la asignatura ED en la UGR realizada durante el curso 2016-2017
 
 Explicación del problema:
 
